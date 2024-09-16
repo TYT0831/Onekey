@@ -1,8 +1,0 @@
-aiofiles
-colorlog
-ujson
-vdf
-nuitka
-requests
-imageio
-aiohttp
